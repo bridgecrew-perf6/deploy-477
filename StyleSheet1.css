@@ -1,0 +1,23 @@
+﻿body {
+}
+.div1{
+    color: blue;
+    font-size: 50px;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.divp{
+    text-align:center;
+    font-display:inherit;
+    color: green;
+    font-language-override:inherit;
+    table-layout:auto;
+}
+.divimg{
+    display:block;
+    margin-top: 20px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+
+}
